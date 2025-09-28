@@ -24,3 +24,5 @@ V)   balanced
 3-SD19
 by_merge dataset with 87% accuracy
 
+by_class dataset training is on the way
+
