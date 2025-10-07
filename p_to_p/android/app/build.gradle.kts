@@ -6,9 +6,9 @@ plugins {
 }
 
 android {
-    compileSdk = 36
-    ndkVersion = "27.0.12077973"
     namespace = "com.example.p_to_p"
+    compileSdk = 36  // Changed from flutter.compileSdkVersion to 36
+    ndkVersion = "27.0.12077973"  // Changed from flutter.ndkVersion to specific version
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
